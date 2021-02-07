@@ -1,4 +1,4 @@
-# Portfolio
+# Aashi's Portfolio
 Welcome to my portfolio!
 
 # About me
