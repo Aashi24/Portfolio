@@ -1,16 +1,22 @@
-# General government debt-to-GDP ratio
+# General government Debt
+General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance
 
-## Bar Chart
+## Debt-to-GDP ratio by Country - Bar Chart
+### 2017
 
 <iframe src="https://data.oecd.org/chart/6gJA" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
 
-## Grid of Lines
+## Debt-to-GDP ratio by Country - Grid of Lines
+
+This visualization represents sparklines to show the trend line for each country on a single chart. I feel it's quite clean and subtle. I choose a warm color to give that effect as the chart could be overwhelming as there are 30 countries on a single chart
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283744"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Column Bar Race
+## Debt-to-GDP ratio by Country - Column Bar Race
+
+This visualization is an interactive bar chart that shows the changes from year to year with a play button. I believe it conveys the message to the user very efficiently and with less effort, as it ranks the countries on each iteration(year) based on their debt-to-gdp ratio. So here it conveys that Japan debt-to-gdp ratio rose after 1999 and it maintained the top position till 2018
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5283996"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-ii
