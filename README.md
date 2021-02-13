@@ -11,3 +11,4 @@ I hope to learn how to deliver meaningful, riveting and actionable insights usin
 
 # Portfolio
 -------------------------------------
+[Assignment2/OECD](/OECD_GDP.md)
