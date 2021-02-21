@@ -37,7 +37,10 @@ I have used Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 
 
 I felt this critiquing method was very effective in evaluating the data visualization. While this method allows us to gauge the effectiveness of a chart using 7 different criteria, the Good Charts method allows us to be more specific about what we like and dislike in terms of color, typography, etc.  This one is definitely requires much detailed analysis than Good Charts, but I feel but can do the trick in their own way
 
-If I have to pick out some measures that I feel are missing, I would choose 
+Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
+1. Type of graph -- Could use a stacked var chart here represention distrubtion of different groups in each country
+2. Labeling -- Mention % in same age group in the y-axis label to improve perceptibility
+
 
 
 
