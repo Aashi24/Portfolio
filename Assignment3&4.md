@@ -41,7 +41,29 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 1. Type of graph -- Could use a stacked var chart here represention distrubtion of different groups in each country
 2. Labeling -- Mention % in same age group in the y-axis label to improve perceptibility
 
-# 3 : Wrireframes and Feedback
+# 3 : Wireframes and Feedback
+
+## First Trial
+
+### Feedback received:
+
+**Friend 1:** <br /> 
+- "The link between the title of the article and the visualization is not clear"
+- Maybe change the bar alignment from vertical to horizontal to feel a smooth descreasing flow from country to country
+
+**Friend 2:** <br /> 
+- Where is the OECD avaerage?
+- Suggestion to change the 24-34 age bins to light hue and 55-64 bins to dark to make more intuitive sense
+
+### Learnings:
+
+- Modify the title of the article to give a better flavour of the intended purpose
+- In order to enhance the completeness of this visualization I should include the OECD average
+- Change the color hue as suggested ,makes sense
+- Try out the horizontal bars to verify aesthetic and perceptive value
+
+
+
 
 
 
