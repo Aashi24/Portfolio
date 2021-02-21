@@ -62,8 +62,24 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 - Change the color hue as suggested ,makes sense
 - Try out the horizontal bars to verify aesthetic and perceptive value
 
+## Next Trial after incorpating feedback
 
 
+### Feedback received:
 
+**Friend 1:** <br /> 
+- The chart more intuitive and easy to interpret now. I see the link with title clearly.
+
+**Friend 2:** <br /> 
+- I love how you have added the average in gray dashed line. I wouldn't change anything more!
+
+# 5 : Build my final Viz
+
+
+## How is the new visualization better?
+
+I believe the bars chart are much easilt perceived by the readers than the dot shapes used earlier. 
+No overlapping and less cluttered
+OECD Average is clearly visible, while not trying to take the focus off the actual bars.
 
 
