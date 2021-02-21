@@ -45,6 +45,8 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 ## First Trial
 
+![Trial-1](Trial1.jpeg)
+
 ### Feedback received:
 
 **Friend 1:** <br /> 
@@ -64,6 +66,7 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 ## Next Trial after incorpating feedback
 
+![Trial-2](Trial2.jpeg)
 
 ### Feedback received:
 
@@ -75,7 +78,7 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 # 5 : Build my final Viz
 
-![Final-Viz](FinalViz.png)
+![Final-Viz](FinalViz.PNG)
 
 ## How is the new visualization better?
 
