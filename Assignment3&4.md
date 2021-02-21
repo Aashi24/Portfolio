@@ -19,7 +19,7 @@ Population with tertiary education is defined as those having completed the high
 - Apt use of **typography:** I like how neatly the countries are represented in x-axis, as it can get easily get clumpy to represent 37 countries together 
 
 **What I disliked:** <br /> 
-- **Look and Design of Data points**: The mix solid and non solid daat points is quite confusing, and also there is overlap of these data points
+- **Look and Design of Data points**: The mix of solid and non solid data points is quite confusing, and also there is overlap of these data points
 - **Overuse and Incorrect color** is distracting readers and the OECD average in black is getting lost in between all the blues
 - **The Y-Axis**: Not sure what that number represents, had to look deeply to figure that it is % in same age group
 
@@ -30,15 +30,15 @@ Population with tertiary education is defined as those having completed the high
 
 ## 2. Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
 
-According to me, the primary audience for this visualization is the **readers of OECD wensite and government officials**.
-I have used Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf to measure effectiveness of this graph
+According to me, the primary audience for this visualization is the **readers of OECD website and government officials**.
+I have used Few, Stephen. “Data Visualization Effectiveness Profile,” 2017 http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf to measure effectiveness of this graph
 
 ## 3. Final thoughts: how successful was this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
 
 I felt this critiquing method was very effective in evaluating the data visualization. While this method allows us to gauge the effectiveness of a chart using 7 different criteria, the Good Charts method allows us to be more specific about what we like and dislike in terms of color, typography, etc.  This one is definitely requires much detailed analysis than Good Charts, but I feel but can do the trick in their own way
 
 Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
-1. Type of graph -- Could use a stacked var chart here represention distrubtion of different groups in each country
+1. Type of graph -- Could use a stacked bar chart for representating distribution of different groups in each country
 2. Labeling -- Mention % in same age group in the y-axis label to improve perceptibility
 
 # 3 : Wireframes and Feedback
@@ -51,10 +51,10 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 **Friend 1:** <br /> 
 - "The link between the title of the article and the visualization is not clear"
-- Maybe change the bar alignment from vertical to horizontal to feel a smooth descreasing flow from country to country
+- Maybe change the bar alignment from vertical to horizontal to feel a smooth decreasing flow from country to country
 
 **Friend 2:** <br /> 
-- Where is the OECD avaerage?
+- Where is the OECD average?
 - Suggestion to change the 24-34 age bins to light hue and 55-64 bins to dark to make more intuitive sense
 
 ### Learnings:
@@ -64,7 +64,7 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 - Change the color hue as suggested ,makes sense
 - Try out the horizontal bars to verify aesthetic and perceptive value
 
-## Next Trial after incorpating feedback
+## Next Trial after incorporating feedback
 
 ![Trial-2](Trial2.jpeg)
 
@@ -80,9 +80,13 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 ![Final-Viz](FinalViz.PNG)
 
+## What it shows?
+
+It depicts the distribution of population with tertiary education by age group and gender in OECD countries 
+
 ## How is the new visualization better?
 
-I believe the bars chart are much easilt perceived by the readers than the dot shapes used earlier. 
+I believe the bar charts are much easily perceived by the readers than the dot shapes used earlier. 
 No overlapping and less cluttered
 OECD Average is clearly visible, while not trying to take the focus off the actual bars.
 
