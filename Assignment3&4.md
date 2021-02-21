@@ -5,7 +5,7 @@ Article: [Population with tertiary education](https://data.oecd.org/eduatt/popul
 
 
 **Background:**
-Population with tertiary education is defined as those having completed the highest level of education, by age group. This includes both theoretical programmes leading to advanced research or high skill professions such as medicine and more vocational programmes leading to the labour market. The measure is percentage of same age population, also available by gender. As globalisation and technology continue to re-shape the needs of labour markets worldwide, the demand for individuals with a broader knowledge base and more specialised skills continues to rise. This visualization represents the population with tertiary education distribution by age and gender across OECD countries
+Population with tertiary education is defined as those having completed the highest level of education, by age group. This includes both theoretical programmes leading to advanced research or high skill professions such as medicine and more vocational programmes leading to the labour market. The measure is percentage of same age population, also available by gender. As globalisation and technology continue to re-shape the needs of labour markets worldwide, the demand for individuals with a broader knowledge base and more specialised skills continues to rise. This visualization represents the population with tertiary education distribution by age and gender across OECD countries and I choose this as I liked the topic and saw areas of improvement 
 
 # 2 : Critique
 
@@ -41,7 +41,7 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 1. Type of graph -- Could use a stacked var chart here represention distrubtion of different groups in each country
 2. Labeling -- Mention % in same age group in the y-axis label to improve perceptibility
 
-
+# 3 : Wrireframes and Feedback
 
 
 
