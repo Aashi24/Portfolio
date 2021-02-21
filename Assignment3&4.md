@@ -75,6 +75,7 @@ Measures I felt missing are Aesthetics and Perceptibility. My recommendations:
 
 # 5 : Build my final Viz
 
+![Final-Viz](FinalViz.png)
 
 ## How is the new visualization better?
 
