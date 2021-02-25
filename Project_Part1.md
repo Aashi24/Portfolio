@@ -20,16 +20,20 @@ the response and behaviour of the people of the two countries towards the fight 
 
 # 2. Initial Sketches
 
-##1
+## 1
+
 ![First](Project11.png)
 
-##2
+## 2
+
 ![Second](Project12.png)
 
-##3
+## 3
+
 ![Third](Project13.png)
 
-##4
+## 4
+
 ![aFourth](Project14.png)
 
 # 3. Data Sources
