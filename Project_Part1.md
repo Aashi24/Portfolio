@@ -26,12 +26,12 @@ the response and behaviour of the people of the two countries towards the fight 
 
 
 # 3. Data Sources
-I am planning to use the following data source to help me convey the covid behaviour differences in the two countries. It contains around 100+ survey questions like "Would you self isolate if you had symptoms" and their avgerage response recorded for each country
+I am planning to use the following data source to help me convey the covid behaviour differences in the two countries. It contains around 100+ survey questions like "Would you self isolate if you had symptoms" and their average response recorded for each country
 
 https://github.com/YouGov-Data/covid-19-tracker
   
   
 # 4. Method and Medium
 
-I plan on using Shorthand to create and present my work. I will be using Tableau and Floirish to create data visualizations
+I plan on using Shorthand to create and present my work. I will be using Tableau and Flourish to create data visualizations
   
