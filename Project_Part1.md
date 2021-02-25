@@ -20,13 +20,11 @@ the response and behaviour of the people of the two countries towards the fight 
 
 # 2. Initial Sketches
 
-![OECD-Viz](Project11.png)
+![First](Project11.png)
 
-![First](Screenshot 2021-02-25 140348.png)
+![Second](Project12.png)
 
-![Second](Screenshot 2021-02-25 141000.png)
-
-![Third](Screenshot 2021-02-25 141400.png)
+![Third](Project13.png)
 
 
 # 3. Data Sources
