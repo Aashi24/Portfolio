@@ -1,4 +1,4 @@
-h# Part I 
+# Part I 
 
 
 # 1. Outline
@@ -20,11 +20,11 @@ the response and behaviour of the people of the two countries towards the fight 
 
 # 2. Initial Sketches
 
-![1](Screenshot 2021-02-25 140348.png)
+![First](Screenshot 2021-02-25 140348.png)
 
-![2](Screenshot 2021-02-25 141000.png)
+![Second](Screenshot 2021-02-25 141000.png)
 
-![3](Screenshot 2021-02-25 141400.png)
+![Third](Screenshot 2021-02-25 141400.png)
 
 
 # 3. Data Sources
