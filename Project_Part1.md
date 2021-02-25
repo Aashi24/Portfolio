@@ -20,7 +20,7 @@ the response and behaviour of the people of the two countries towards the fight 
 
 # 2. Initial Sketches
 
-![OECD-Viz](Screenshot 2021-02-25 140348.PNG)
+![OECD-Viz](Project11.png)
 
 ![First](Screenshot 2021-02-25 140348.png)
 
