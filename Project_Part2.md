@@ -6,7 +6,7 @@
 
 ## User Research Protocol
 
-# Target Audience
+## Target Audience
 The target audience for my story are all Americans, young and old. The purpose of this project is to raise awareness about differences in Covid behavior between U.S and Australia and how this correlates to the number of cases and spread of virus in the two countries. 
 Also allowing people to take insipiration from Australia to help convince them hifting their behavior in helping this fight against the Coronavirus pandemic
 
@@ -24,7 +24,7 @@ Hi, I'd like your help in refining my website, I have drawn some initial wirefra
 
 **4. How are the visualizations? Are they clear and persuading?**
 
-**5. What was the call to action and does that resonate with you?
+**5. What was the call to action and does that resonate with you?**
 
 **6. On a scale of 1 to 5 how would you rank the effectiveness of this story?**
 
