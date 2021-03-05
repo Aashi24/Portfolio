@@ -6,14 +6,18 @@
 
 ![1](4_Intro.PNG)
 
-**2. Visualization to show the difference in the number of cases over time**
+**2. Visualization to show the difference between the number of cases over time**
 
 ![2](4_2.PNG)
 
+**3. American reaction to Corovirus as Hoax**
 
-**3.  Covid Behavior Surevy results example (will have more question across pages)**
+![3](4_4.PNG)
 
-![3](4_3.PNG)
+
+**4.  Covid Behavior Surevy results example (will have more question across pages)**
+
+![4](4_3.PNG)
 
 
 
