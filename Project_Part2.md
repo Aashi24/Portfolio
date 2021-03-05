@@ -6,6 +6,16 @@
 
 ![1](4_Intro.PNG)
 
+**2. Visualization to show the difference in the number of cases over time**
+
+![2](4_2.PNG)
+
+
+**3.  Covid Behavior Surevy results example (will have more question across pages)**
+![3](4_3.PNG)
+
+
+
 ## User Research Protocol
 
 ## Target Audience
