@@ -45,4 +45,15 @@ Hi, I'd like your help in refining my website, I have drawn some initial wirefra
 
 **6. On a scale of 1 to 5 how would you rank the effectiveness of this story?**
 
+I interviewed 3 individuals - a college student, my aunt and a cousin.
 
+The feedback I received was that everyone was able to summarize the intent correctly, but they felt the storyline was a bit off. 
+The visualizations were greatly appreciated, specially the info graphics one. 
+On the title page I received a feedback, asking to use similar graphics for Adelaide and Pittsburgh covid stats 
+When asked on call to action I received varied responses, basically felt that people weren't clear on it.
+
+### Plan on implementating the following changes
+
+1. Make the title page clearer; increase the font and find covid stats for Adelaide and Pittsburgh in same time frame and format
+2. Elaborate the call to action further, with convincing graphics
+3. Add additional elements to story to have a smooth flow and easy for audience to follow along
