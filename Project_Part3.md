@@ -34,7 +34,7 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 - [online] Available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext
 - Bavel, J.J.V., Baicker, K., Boggio, P.S. et al. Using social and behavioural science to support COVID-19 pandemic response. Nat Hum Behav 4, 460–471 (2020).            https://doi.org/10.1038/s41562-020-0884-z
 - Arena, O. and Burrowes, K., 2020. Community Engagement during the COVID-19 Pandemic and Beyond. [online] Available at: https://www.urban.org/sites/default/files/publication/102820/community-engagement-during-the-covid-19-pandemic-and-beyond.pdf
-- Coursehero.com. 2021. science project.pptx - The downfall of mankind By Gino One Ortega Can covid be a repeat of the black plague Statement of the problem Project hypotheses |   Course Hero. [online] Available at: <https://www.coursehero.com/file/77568450/science-projectpptx/> [Accessed 17 March 2021].
+- Coursehero.com. 2021. science project.pptx - The downfall of mankind By Gino One Ortega Can covid be a repeat of the black plague Statement of the problem Project hypotheses   [online] Available at: <https://www.coursehero.com/file/77568450/science-projectpptx/> [Accessed 17 March 2021].
 - Data Source for the survey responses: Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub. Github page: https://github.com/YouGov-Data/covid-19-tracker
 
 # Image Sources
