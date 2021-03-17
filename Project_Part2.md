@@ -61,6 +61,6 @@ When asked on call to action I received varied responses, basically felt that pe
 
 [Click to return to my portfolio](/README.md)                                                                                      
  
-[Click to go to Part 2](/Project_Part3.md)
+[Click to go to Part 3](/Project_Part3.md)
 
 [Click to go to Part 1](/Project_Part1.md)
