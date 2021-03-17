@@ -19,8 +19,20 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 
 # Link to the final project
 
-## [Two Sides of Global Pandemic](https://carnegiemellon.shorthandstories.com/two-sides-of-a-global-pandemic/index.html)
+### [Two Sides of Global Pandemic](https://carnegiemellon.shorthandstories.com/two-sides-of-a-global-pandemic/index.html)
 
+
+# References
+
+- Zhou, F. et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 395, 1054–1062
+- News, A., 2021. Timeline: How coronavirus got started. [online] ABC News. Available at: https://abcnews.go.com/Health/timeline-coronavirus-started/story?id=69435165
+- 2021. [ebook] Available at: urban.org/sites/default/files/publication/102820/community-engagement-during-the-covid-19-pandemic-and-beyond.pdf
+- 2021. [online] Available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext
+- Data Source for the survey responses: Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub. Github page: https://github.com/YouGov-Data/covid-19-tracker
+
+# Image Sources
+
+Followes library guidlines and cited images correctly and utilized unsplash for all images.
 
 
 #### Thank you for joining me on this journey. I had a lot fun doing this, hope you enjoyed it too..
