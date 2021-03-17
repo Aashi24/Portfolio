@@ -29,6 +29,6 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 
 [Click to return to my portfolio](/README.md)                                                                                      
  
-[Click to go to Part 2](/Project_Part3.md)
+[Click to go to Part 2](/Project_Part2.md)
 
 
