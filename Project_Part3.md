@@ -32,7 +32,7 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 
 # Image Sources
 
-Followes library guidlines and cited images correctly and utilized unsplash for all images.
+Followed library guidlines and cited images correctly and utilized unsplash for all images.
 
 
 #### Thank you for joining me on this journey. I had a lot fun doing this, hope you enjoyed it too..
