@@ -46,3 +46,4 @@ https://github.com/YouGov-Data/covid-19-tracker
 
 I plan on using Shorthand to create and present my work. I will be using Tableau and Flourish to create data visualizations
   
+ [Click to return to my portfolio](/README.md)
