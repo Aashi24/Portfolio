@@ -26,5 +26,5 @@ I feel Grid of Lines chart is quite clean and subtle. Though it is conveying the
 
 I believe Column Bar Race chart conveys the message to the user very efficiently and with less effort, as it ranks the countries on each iteration(year) based on their debt-to-gdp ratio. hence this intercative play chart is the best way to represnt the data and convey the information (how countries rank against each other) nicely
 
-
+[Click to return to my portfolio](/README.md)
 
