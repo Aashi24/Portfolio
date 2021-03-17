@@ -57,3 +57,5 @@ When asked on call to action I received varied responses, basically felt that pe
 1. Make the title page clearer; increase the font and find covid stats for Adelaide and Pittsburgh in same time frame and format
 2. Elaborate the call to action further, with convincing graphics
 3. Add additional elements to story to have a smooth flow and easy for audience to follow along
+
+[Click to return to my portfolio](/README.md)
