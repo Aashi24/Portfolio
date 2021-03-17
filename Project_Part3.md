@@ -5,7 +5,7 @@ I realised through this process that what we perceive is not what others perceiv
 
 Few changes incorporated in the final deliverable based on feedback:
 
-**Develop an better narrative and an engaging story**
+**Develop a better narrative and an engaging story**
 
 By first showming how my journey from Australia to US in Aug 2020 made me realize differences in people's reaction to Covid - 19
 Then showing an engaging viz by drawing attention to the massive gap in covid cases in Australia and US over past year. The purpose to show is to attribute this difference to the social and behavioural sciences (based on my personal experience) rather than pharmaceutical interventions and Govt policies.
@@ -20,6 +20,8 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 # Link to the final project
 
 ## [Two Sides of Global Pandemic](https://carnegiemellon.shorthandstories.com/two-sides-of-a-global-pandemic/index.html)
+
+
 
 ## Thank you for joining me on this journey. I had a lot fun doing this, hope you enjoyed it too..
 
