@@ -1,5 +1,5 @@
 # Aashi's Portfolio
-This is my public portfolio for the Telling Stories with Data class at Carnegie Mellon University, a humble effort to make impactful visualizations.
+This is my public portfolio for the Telling Stories with Data class at Carnegie Mellon University.
 
 # About me
 Hello I am Aashi(she/her). I am currently doing my Masters in Management Information Systems at Carnegie Mellon University. 
