@@ -14,7 +14,10 @@ I truly believe that the best way to learn something is to do it! I wish to lear
 # Portfolio
 -------------------------------------
 [Assignment 2 - OECD Viz](/Assignment2.md)
+
 [Assignment 3 & 4 - Critique](/Assignment3&4.md)
+
 [Project - Part1](/Project_Part1.md)
+
 [Project - Part2](/Project_Part2.md)
 
