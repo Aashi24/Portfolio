@@ -58,4 +58,9 @@ When asked on call to action I received varied responses, basically felt that pe
 2. Elaborate the call to action further, with convincing graphics
 3. Add additional elements to story to have a smooth flow and easy for audience to follow along
 
-[Click to return to my portfolio](/README.md)
+
+[Click to return to my portfolio](/README.md)                                                                                      
+ 
+[Click to go to Part 2](/Project_Part3.md)
+
+[Click to go to Part 1](/Project_Part1.md)
