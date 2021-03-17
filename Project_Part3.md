@@ -26,8 +26,8 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 
 - Zhou, F. et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet 395, 1054–1062
 - News, A., 2021. Timeline: How coronavirus got started. [online] ABC News. Available at: https://abcnews.go.com/Health/timeline-coronavirus-started/story?id=69435165
-- 2021. [ebook] Available at: urban.org/sites/default/files/publication/102820/community-engagement-during-the-covid-19-pandemic-and-beyond.pdf
-- 2021. [online] Available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext
+- [ebook] Available at: urban.org/sites/default/files/publication/102820/community-engagement-during-the-covid-19-pandemic-and-beyond.pdf
+- [online] Available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31054-0/fulltext
 - Data Source for the survey responses: Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub. Github page: https://github.com/YouGov-Data/covid-19-tracker
 
 # Image Sources
