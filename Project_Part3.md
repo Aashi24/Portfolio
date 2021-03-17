@@ -2,7 +2,7 @@
 
 **Intended Audience**
 
-As mentioned in Part 2, my audience for my story are all Americans, young and old. The purpose of this project is to raise awareness about differences in Covid behavior between U.S and Australia and how this correlates to the number of cases and spread of virus in the two countries. Also allowing people to take insipiration from Australia to help convince them hifting their behavior in helping this fight against the Coronavirus pandemic
+As mentioned in Part 2, the audience for my story are all Americans, young and old. The purpose of this project is to raise awareness about differences in Covid behavior between U.S and Australia and how this correlates to the number of cases and spread of virus in the two countries. Also allowing people to take insipiration from Australia to help convince them hifting their behavior in helping this fight against the Coronavirus pandemic
 
 
 The final deliverable is a result of numerous iterations of wireframing based on peer feedback in part 1, part 2 and in-class discussions. Always kept in mind my intended audience (American population) when making updates based on the feedback
