@@ -23,7 +23,8 @@ Utilized the Imperial College, London Covid Behavior Tracker data set to obtain 
 
 
 
-### Thank you for joining me on this journey. I had a lot fun doing this, hope you enjoyed it too..
+#### Thank you for joining me on this journey. I had a lot fun doing this, hope you enjoyed it too..
+
 
 
 [Click to return to my portfolio](/README.md)                                                                                      
