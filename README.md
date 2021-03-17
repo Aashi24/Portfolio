@@ -13,4 +13,5 @@ I truly believe that the best way to learn something is to do it! I wish to lear
 
 # Portfolio
 -------------------------------------
+[Project Part II](/OECD_BarChart.md)
 
